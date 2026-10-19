@@ -20,7 +20,7 @@ A numeração é a do modelo de trabalho do IFPR, a mesma dos trabalhos de Proje
 
 | Seção | Arquivo | Situação |
 |---|---|---|
-| 3.1 Abordagem de Desenvolvimento | [docs/3.1-abordagem-de-desenvolvimento.md](docs/3.1-abordagem-de-desenvolvimento.md) | ⬜ |
+| 3.1 Abordagem de Desenvolvimento | [docs/3.1-abordagem-de-desenvolvimento.md](docs/3.1-abordagem-de-desenvolvimento.md) | ✅ |
 | 3.2 Ferramentas e Tecnologias | [docs/3.2-ferramentas-e-tecnologias.md](docs/3.2-ferramentas-e-tecnologias.md) | ⬜ |
 | 3.3 Arquitetura do Sistema | [docs/3.3-arquitetura-do-sistema.md](docs/3.3-arquitetura-do-sistema.md) | ⬜ |
 | 4.1 Descrição do Projeto | [docs/4.1-descricao-do-projeto.md](docs/4.1-descricao-do-projeto.md) | ✅ |
